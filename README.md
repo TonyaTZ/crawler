@@ -5,4 +5,4 @@ The file crawler-1.0.jar will be created under /target path.
 
 To run the application please specify the domain to crawl.
 
-Example: java -jar crawler-1.0.jar http://monzo.com
+Example: java -jar crawler-1.0.jar http://example.com
